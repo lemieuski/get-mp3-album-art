@@ -6,8 +6,8 @@ import json
 from datetime import datetime
 
 # Your Google Custom Search API key and Search Engine ID
-GOOGLE_API_KEY = 'enter your api key'
-SEARCH_ENGINE_ID = 'enter your search engine ID'
+GOOGLE_API_KEY = 'your_google_api_key'
+SEARCH_ENGINE_ID = 'your_search_engine_id'
 LIMIT_PER_DAY = 100
 
 # File to store progress
