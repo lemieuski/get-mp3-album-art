@@ -1,5 +1,5 @@
 # get-mp3-album-art
-Simple python script that uses google custom search to scour your music library and grab album art#
+Simple python script that uses google custom search to scour your music library and grab album art
 
 Make sure to setup your google custom search (https://programmablesearchengine.google.com), save the search ID, and link it to your API (https://console.cloud.google.com/apis). 
 
